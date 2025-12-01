@@ -1,0 +1,7 @@
+# minimal settings
+title: "Geyao Gu"
+description: "Theoretical chemist, data scientist, stochastic processes"
+url: "https://gugeyao.github.io"
+baseurl: ""
+
+remote_theme: alshedivat/al-folio@v0.14.7
