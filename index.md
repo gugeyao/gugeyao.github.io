@@ -26,9 +26,9 @@ permalink: /
 
     <!-- 按钮区 -->
     <p style="margin-top: 25px;">
-      <a class="btn btn-primary" href="/cv/">📄 View CV</a>
-      <a class="btn btn-success" href="/research/">🔬 Research</a>
       <a class="btn btn-info" href="mailto:gugeyao24@gmail.com">✉️ Contact Me</a>
+        <a href="https://github.com/gugeyao">GitHub</a> |
+  	<a href="https://scholar.google.com/citations?hl=en&user=RRPnkecAAAAJ">Google Scholar</a>
     </p>
 
   </div>
