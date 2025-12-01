@@ -5,3 +5,36 @@ url: "https://gugeyao.github.io"
 baseurl: ""
 
 remote_theme: alshedivat/al-folio@v0.14.7
+
+author:
+  name: "Geyao Gu"
+  email: "gugeyao24@gmail.com"
+  github_username: "gugeyao"
+
+navbar:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# ================================
+# Build settings
+# ================================
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
