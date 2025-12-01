@@ -6,7 +6,7 @@ baseurl: ""
 
 remote_theme: daattali/beautiful-jekyll
 
-author:"Geyao Gu"
+author: "Geyao Gu"
 
 navbar-links:
   Home: ""
