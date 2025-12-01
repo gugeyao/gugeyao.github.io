@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Home
+title: "Home"
+permalink: /
 ---
 
-# Hello!
+# Hi, I'm Geyao 👋
 
-Welcome to Geyao Gu’s homepage.  
-This site is currently under construction.
+I am a computational/theoretical chemist working on molecular motors, nonequilibrium physics, and data-driven modeling.
+
+This site is under construction.  
+Use the navigation bar above to see my CV and research (coming soon).
+

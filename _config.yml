@@ -6,35 +6,16 @@ baseurl: ""
 
 remote_theme: daattali/beautiful-jekyll
 
-author:
-  name: "Geyao Gu"
-  email: "gugeyao24@gmail.com"
-  github_username: "gugeyao"
+author:"Geyao Gu"
 
-navbar:
-  - title: "Home"
-    url: /
-  - title: "CV"
-    url: /cv/
-  - title: "Research"
-    url: /research/
+navbar-links:
+  Home: ""
+  CV: "cv"
+  Research: "research"
 
+social-network-links:
+  email: "your_email@example.com"
+  github: "gugeyao"
+  google-scholar: "https://scholar.google.com/citations?user=RRPnkecAAAAJ&hl=en"
 markdown: kramdown
 highlighter: rouge
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
-# ================================
-# Build settings
-# ================================
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
