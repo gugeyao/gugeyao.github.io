@@ -25,7 +25,7 @@ permalink: /
     </p>
 
     <!-- 按钮区 -->
-    <p style="margin-top: 25px;">
+<p class="social-links">
       <a  href="mailto:gugeyao24@gmail.com">Contact Me</a>
         <a href="https://github.com/gugeyao">GitHub</a> |
   	<a href="https://scholar.google.com/citations?hl=en&user=RRPnkecAAAAJ">Google Scholar</a>
